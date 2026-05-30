@@ -1,22 +1,6 @@
-# Dependencies
-**/node_modules/
-
-# Build outputs
-**/dist/
-
-# Env / secrets
-**/.env
-**/.env.*
-
-# Local databases / artifacts
-**/*.sqlite
-**/*.sqlite3
-**/*.db
-
-# Logs
-**/*.log
-
-# OS
+node_modules/
+.env
+.env.*
+dist/
+build/
 .DS_Store
-Thumbs.db
-
